@@ -1,0 +1,18 @@
+Package: isalin
+Type: Package
+Title: A Translator for Argots
+Version: 0.1.0
+Authors@R: 
+    c(
+      person(
+        "Nathan", "Eastwood", , "nathan.eastwood@icloud.com", c("aut", "cre")
+      )
+    )
+Description: Translations for various argots are provided herein.
+Depends: 
+    R (>= 3.4.2)
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
